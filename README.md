@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Local SEO**
 
-- 📫 How to reach me **Aymanali18828**
+- 📫 How to reach me **https://www.linkedin.com/in/aymanali-digitalmarketer/**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aymanali-digitalmarketer/](https://www.linkedin.com/in/aymanali-digitalmarketer/)
 
