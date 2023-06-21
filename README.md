@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ayman Ali</h1>
-<h3 align="center">Ambassador at Fueler.io | Google Business Local SEO Expert | Certified Digital Marketer | Content Creator Fueler.io | Web Developer of 30+ Websites | Enthusiast at Growth Marketing | Consumer psychology | Copywriting from India</h3>
+<h3 align="center">Youngest Google Product Expert In India | Growth Marketer | Google Business SEO Specialist | Web Developer | Ex - Ambassador Fueler </h3>
 
-- 🔭 I’m currently working on **Local SEO**
+- 🔭 I’m currently working on ** Programmatic SEO And Prompt Engineering **
 
-- 🌱 I’m currently learning **Digital Marketing**
+- 🌱 I’m currently learning ****
 
-- 👯 I’m looking to collaborate on **Local SEO**
+- 👯 I’m looking to collaborate on ****
 
 - 👨‍💻 All of my projects are available at [https://fueler.io/aymanali](https://fueler.io/aymanali)
 
